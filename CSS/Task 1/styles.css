@@ -1,0 +1,19 @@
+.blue-table{
+    border: 1px solid #0d1012;
+    background-color: #41bca9;
+    width: 100%;
+    text-align: left;
+    border-radius: 20px;
+}
+th{
+    border-radius: 20px;
+    border: 1px solid #0d1012;
+    padding: 10px;
+    text-align: center;
+    
+}
+td{
+    border-radius: 20px;
+    border: 1px solid #0d1012;
+    padding: 10px;
+}

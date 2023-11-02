@@ -1,0 +1,47 @@
+table{
+    
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 20px !important;
+    
+}
+.tablediv{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 20px !important;
+    width: fit-content;
+}
+.tr{
+    background-color: rgb(119, 175, 175);
+    color: blue;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    
+}
+.tr:hover{
+    background-color: rgb(224, 172, 16);
+    color: white;
+}
+
+.td2{
+    background-color: rgb(118, 142, 142);
+    color: blue;
+    height: 50px;
+    width: 80px;
+    text-align: center;
+    
+}   
+.td2:hover{
+    background-color: rgb(224, 172, 16);
+    color: white;
+}
+.rightdiv{
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}

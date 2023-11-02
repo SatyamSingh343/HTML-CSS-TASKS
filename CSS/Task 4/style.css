@@ -1,0 +1,57 @@
+td{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;    
+    border-radius: 10px;
+    
+}
+table{
+   
+    margin-left: -50px;
+}
+.tr{
+    
+    color: blue;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    
+}
+.td1{
+    background-color: red;    
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+}
+.td2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+}
+.td3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+}
+.td4{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+}
+.rightdiv{
+    margin-left: 200px;
+    margin-top: -400px;
+   
+  
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(40, 34, 34);
+}
